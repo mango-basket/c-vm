@@ -1,5 +1,5 @@
 - [ ] architecure
-  - [ ] registers
+  - [x] registers
   - [ ] memory
   - [ ] display
   - [ ] mmio
