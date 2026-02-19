@@ -1,0 +1,8 @@
+- [ ] architecure
+  - [ ] registers
+  - [ ] memory
+  - [ ] display
+  - [ ] mmio
+  - [ ] instruction set
+- [ ] debugger (gdb-esque)
+
